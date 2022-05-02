@@ -21,4 +21,4 @@ To paste files, ClipWriter generates PowerShell commands to create the required 
 
 ## Issues
 * Speed, obviously. Copying large files is time consuming, but if the alternative is to run through several hours of meetings about firewall rules and security issues, this might be quicker after all.
-* The computer that's doing the "typing" is pretty much unusable while the script runs. You can watch Youtube on a separate screen though :D
+* The computer that's doing the "typing" is pretty much unusable while the script runs. You can watch Youtube on a separate screen though  :D
